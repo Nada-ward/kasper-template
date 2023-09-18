@@ -42,7 +42,6 @@ header .container{
     align-items: center;
     position: relative;
     min-height: 97px;
-    /* background-color:var(--secondary-color); */
 }
 .container{
     padding-left:15px;
@@ -474,7 +473,6 @@ text-transform: uppercase;
     top: 50%;
     transform: translateY(-50%);
     width: 100%;
-    /* opacity: 0.6    ; */
 }
 .top h2{
     font-weight: normal;
